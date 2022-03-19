@@ -1,0 +1,11 @@
+Requires the following ENV variables and/or secrets:
+
+Docker image at dockerhub robolague/cf-ddns
+
+BASEID
+ZONE
+AUTH_EMAIL
+AUTH_KEY
+BEARER
+
+also requires a configmap to /etc/ddupdate/dnslist
