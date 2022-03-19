@@ -1,6 +1,9 @@
+Dynamic DNS client for Cloudfront (One Zone)
+I use this in k8s as a cronjob
+
 Requires the following ENV variables and/or secrets:
 
-Docker image at dockerhub robolague/cf-ddns
+Docker image at https://hub.docker.com/r/robolague/cf-ddns
 
 BASEID
 ZONE
