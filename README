@@ -1,4 +1,4 @@
-Dynamic DNS client for Cloudfront (One Zone)
+Dynamic DNS client for CloudFlare (One Zone)
 I use this in k8s as a cronjob
 
 Requires the following ENV variables and/or secrets:
